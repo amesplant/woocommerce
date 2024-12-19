@@ -2,7 +2,7 @@
 	"name": "@woocommerce/plugin-woocommerce",
 	"private": true,
 	"title": "WooCommerce",
-	"version": "9.7.0",
+	"version": "9.7.0.20",
 	"homepage": "https://woocommerce.com/",
 	"repository": {
 		"type": "git",
@@ -239,7 +239,7 @@
 						"--shard=3/4",
 						"--shard=4/4"
 					],
-					"changes": [ 
+					"changes": [
 						"tests/e2e-pw/**"
 					],
 					"events": [
